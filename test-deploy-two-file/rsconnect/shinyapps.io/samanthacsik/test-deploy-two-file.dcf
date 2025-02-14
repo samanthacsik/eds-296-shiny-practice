@@ -1,0 +1,11 @@
+name: test-deploy-two-file
+title:
+username:
+account: samanthacsik
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 13998955
+bundleId: 9798170
+url: https://samanthacsik.shinyapps.io/test-deploy-two-file/
+when: 1739505298.90325
+lastSyncTime: 1739505298.90327
